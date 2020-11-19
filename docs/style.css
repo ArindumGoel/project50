@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(22, 205, 230);
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: rgb(235, 226, 146);
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid{
+    background-color: rgb(248, 160, 226);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(243, 182, 103);
+}
